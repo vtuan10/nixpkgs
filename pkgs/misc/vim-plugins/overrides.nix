@@ -808,6 +808,7 @@ self: super: {
       "coc-java"
       "coc-jest"
       "coc-json"
+      "coc-kotlin"
       "coc-lists"
       "coc-markdownlint"
       "coc-metals"
